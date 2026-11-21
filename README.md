@@ -53,7 +53,6 @@ sql/
   telco_churn_analysis.sql               table, view and analysis queries (SQLite)
 dashboard/
   churn_dashboard.pbix                   Power BI dashboard
-  Churn_Pastel_theme.json                custom theme
   dashboard_preview.png                  screenshot
 docs/
   Business_Analysis_Report.pdf           problem statement, stakeholders, root cause, requirements, cost-benefit, KPIs
