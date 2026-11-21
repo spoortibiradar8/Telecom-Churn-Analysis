@@ -86,6 +86,9 @@ Main DAX measures: Customers, Churned Customers, Churn Rate, Monthly Revenue, Ch
 
 SQL (SQLite), Power BI (DAX), Python (pandas) for verification.
 
-## Author
+## Author and Contact
 
-[Your name] · [LinkedIn link]
+Author: Spoorti Biradar |
+Email: spoortibiradar8@gmail.com |
+GitHub: https://github.com/spoortibiradar8
+
